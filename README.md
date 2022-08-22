@@ -1,2 +1,2 @@
 # C-Programming-class-Training
-Training with Doc markus
+C programming with Doc Marcus Alx
